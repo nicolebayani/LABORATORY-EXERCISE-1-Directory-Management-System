@@ -1,6 +1,34 @@
 #include <iostream>
+#include <filesystem>
+#include <string>
 
 using namespace std;
+
+void ListofFiles(){
+	if(fs:: exist(path) && fs::directory(path)){
+		cout << "Files "
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 int main()
 {
